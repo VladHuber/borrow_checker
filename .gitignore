@@ -1,0 +1,15 @@
+# Rust build artifacts (общий target воркспейса и target каждой задачи)
+target/
+**/target/
+
+# Осиротевший каталог сборки (остался от переименования target)
+targetWFzVyY/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.rs.bk
+.vscode/
+.idea/
+.agents/
